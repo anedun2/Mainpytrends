@@ -1,0 +1,227 @@
+{
+    "dfUSAairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/0k9ts",
+            "/m/07y2s",
+            "/m/0z07",
+            "/m/0gztl"
+        ],
+        "geo": "US",
+        "last_updated": "2022-10-01"
+    },
+    "dfUKairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/01m_zd",
+            "/m/018mxj",
+            "/m/0198z",
+            "/m/047drcd"
+        ],
+        "geo": "GB",
+        "last_updated": "2022-10-01"
+    },
+    "dfITairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/01m_zd",
+            "/m/018mxj",
+            "/m/05_5qpj",
+            "/m/047drcd"
+        ],
+        "geo": "IT",
+        "last_updated": "2022-10-01"
+    },
+    "dfDEairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/01m_zd",
+            "/m/018mxj",
+            "/m/01_29k",
+            "/m/053qyt"
+        ],
+        "geo": "DE",
+        "last_updated": "2022-10-01"
+    },
+    "dfFRairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/01m_zd",
+            "/m/018mxj",
+            "/m/03rr77",
+            "/m/0p87j"
+        ],
+        "geo": "FR",
+        "last_updated": "2022-10-01"
+    },
+    "dfESairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/01m_zd",
+            "/m/018mxj",
+            "/m/03rr77",
+            "/m/0p87j"
+        ],
+        "geo": "ES",
+        "last_updated": "2022-10-01"
+    },
+    "dfUKtourops": {
+        "kw_list": [
+            "Holiday",
+            "/m/04jvfj",
+            "Thomson",
+            "On the beach",
+            "/m/03j6kj"
+        ],
+        "geo": "GB",
+        "last_updated": "2022-10-01"
+    },
+    "dfDEtourops": {
+        "kw_list": [
+            "/m/01sqfn",
+            "/m/05fgcw ",
+            "/m/04jvfj ",
+            "Urlaub"
+        ],
+        "geo": "DE",
+        "last_updated": "2022-10-01"
+    },
+    "dfFRtourops": {
+        "kw_list": [
+            "Holiday",
+            "/m/04jvfj",
+            "/m/02ty15",
+            " /m/067g14"
+        ],
+        "geo": "FR",
+        "last_updated": "2022-10-01"
+    },
+    "dfSEtourops": {
+        "kw_list": [
+            "Holiday",
+            "/m/04jvfj",
+            "Apollo",
+            "Fritidsresor",
+            "Semester"
+        ],
+        "geo": "SE",
+        "last_updated": "2022-10-01"
+    },
+    "dfBEtourops": {
+        "kw_list": [
+            "Holiday",
+            "/m/04jvfj",
+            "/m/094stw",
+            "Jetairfly",
+            "Vakantie"
+        ],
+        "geo": "BE",
+        "last_updated": "2022-10-01"
+    },
+    "dfUKOTA": {
+        "kw_list": [
+            "/m/0yxzc1z",
+            "/m/025ypk",
+            "/m/09py1r",
+            "/m/05jp41",
+            "/m/010qmszp"
+        ],
+        "geo": "GB",
+        "last_updated": "2022-10-01"
+    },
+    "dfDEOTA": {
+        "kw_list": [
+            "/m/0yxzc1z",
+            "/m/025ypk",
+            "/m/09py1r",
+            "/m/05jp41",
+            "/m/010qmszp"
+        ],
+        "geo": "DE",
+        "last_updated": "2022-10-01"
+    },
+    "dfFROTA": {
+        "kw_list": [
+            "/m/0yxzc1z",
+            "/m/025ypk",
+            "/m/09py1r",
+            "/m/05jp41",
+            "/m/010qmszp"
+        ],
+        "geo": "FR",
+        "last_updated": "2022-10-01"
+    },
+    "dfUSOTA": {
+        "kw_list": [
+            "/m/0yxzc1z",
+            "/m/025ypk",
+            "/m/09py1r",
+            "/m/010qmszp",
+            "/m/030qmr8"
+        ],
+        "geo": "US",
+        "last_updated": "2022-10-01"
+    },
+    "dfUSaltOTA": {
+        "kw_list": [
+            "/m/0yxzc1z",
+            "/m/025ypk",
+            "/m/02zd585 ",
+            "/m/010qmszp",
+            "/m/030qmr8"
+        ],
+        "geo": "US",
+        "last_updated": "2022-10-01"
+    },
+    "dfUKCruises": {
+        "kw_list": [
+            "/m/012c5nhd",
+            "/m/04y5s49",
+            "/m/040sxf",
+            "Cruises",
+            "/m/02p8k4q"
+        ],
+        "geo": "GB",
+        "last_updated": "2022-10-01"
+    },
+    "dfDECruises": {
+        "kw_list": [
+            "/m/05m_7q6",
+            "/m/09gftjr",
+            "Kreuzfahrt",
+            "Aida"
+        ],
+        "geo": "DE",
+        "last_updated": "2022-10-01"
+    },
+    "dfITCruises": {
+        "kw_list": [
+            "/m/0c8m0s",
+            "/m/04q7d8",
+            "Crociera"
+        ],
+        "geo": "IT",
+        "last_updated": "2022-10-01"
+    },
+    "dfUSCruises": {
+        "kw_list": [
+            "Carnival Cruise Line",
+            "Royal Caribbean",
+            "Norwegian Cruise Line",
+            "Cruises"
+        ],
+        "geo": "US",
+        "last_updated": "2022-10-01"
+    },
+    "dfCAairlines": {
+        "kw_list": [
+            "/m/01515d",
+            "/m/0k9ts",
+            "/m/07y2s",
+            "/m/0z07",
+            "/m/0gztl"
+        ],
+        "geo": "CA",
+        "last_updated": "2022-09-12"
+    }
+}
